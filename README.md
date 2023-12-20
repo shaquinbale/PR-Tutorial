@@ -1,3 +1,3 @@
 # EXERCISE 1
 
-listen for the instructions!
+Fix the bugs in program.py
