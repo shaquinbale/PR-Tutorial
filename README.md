@@ -1,3 +1,3 @@
-# EXERCISE 1
+# Everything should be in order.
 
-Fix the bugs in program.py
+if not, click the ISSUES tab at the top.
