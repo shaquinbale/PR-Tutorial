@@ -1,10 +1,12 @@
-# i think i messed up in a couple lines, can yall fix it for me?
+# yeah i can fix it
 
-favoriteAnimal = innnput("What's your favorite animal?")
+favoriteAnimal = input("What's your favorite animal?")
 
-if favoriteanimal.lower != "cat":
-    print("wow so you hate cats?"
-    print("that's not very nice", bro.)
+if favoriteAnimal == 'cat':
+    print('I also love cats.')
+else:
+    print("Wow! So you hate cats?")
+    print("That's not very nice, bro.")
 
-elsa:
-    qrint("I also love cats!")
+
+
